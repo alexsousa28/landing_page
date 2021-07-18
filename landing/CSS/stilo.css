@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-menu {
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding: 25px;
+}
+
+.div-central {
+    width: 100%;
+    height: 700px;
+    margin-right: 0px;
+    background: url(..//IMGs/fundo_pt.jpg);
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+
+.div-central h1,
+img {
+    padding-top: 30px;
+}
+
+.div-central img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -100px;
+    left: 240px;
+}
+
+.div-cor {
+    color: #A9A9A9;
+}
+
+.div-estilop {
+    color: white;
+    padding-top: 20px;
+}
+
+.botao {
+    color: white;
+    background-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
